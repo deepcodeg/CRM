@@ -26,7 +26,7 @@ msgstr "Guardar"
 
 #: 
 msgid "Unassigned"
-msgstr "Sin Asignar"
+msgstr "Sin asignar"
 
 #: 
 msgid "None"
@@ -54,11 +54,11 @@ msgstr "Email"
 
 #: 
 msgid "Credit Card"
-msgstr "Tarjeta de Crédito"
+msgstr "Tarjeta de crédito"
 
 #: 
 msgid "Backup Database"
-msgstr "Respaldar la Base de Datos"
+msgstr "Respaldar la base de datos"
 
 #: 
 msgid "This tool will assist you in manually backing up the ChurchCRM database."
@@ -87,15 +87,15 @@ msgstr "Cifrar el archivo de copia de seguridad con una contraseña?"
 
 #: 
 msgid "Re-type Password"
-msgstr "Reingresar Contraseña"
+msgstr "Reingresar contraseña"
 
 #: 
 msgid "Generate and Ship Backup to External Storage"
-msgstr "Generar y despachar respaldo a Almacenamiento Externo"
+msgstr "Generar y despachar respaldo a almacenamiento externo"
 
 #: 
 msgid "Batch Winner Entry"
-msgstr "Entrada de Ganador de Partida"
+msgstr "Entrada de ganador de partida"
 
 #: 
 msgid "Winner"
@@ -115,7 +115,7 @@ msgstr "Exportar a CSV"
 
 #: 
 msgid "Field Selection"
-msgstr "Seleccionar Campo"
+msgstr "Seleccionar campo"
 
 #: 
 msgid "Last Name"
@@ -131,11 +131,11 @@ msgstr "Nombre"
 
 #: 
 msgid "Middle Name"
-msgstr "Segundo Nombre"
+msgstr "Segundo nombre"
 
 #: 
 msgid "Zip"
-msgstr "Código Postal"
+msgstr "Código postal"
 
 #: 
 msgid "Envelope"
@@ -143,19 +143,19 @@ msgstr "Sobre"
 
 #: 
 msgid "Work/Other Email"
-msgstr "Trabajo/Otro Email"
+msgstr "Trabajo/Otro email"
 
 #: 
 msgid "Membership Date"
-msgstr "Fecha de Membresía"
+msgstr "Fecha de membresía"
 
 #: 
 msgid "Birth / Anniversary Date"
-msgstr "Fecha de Cumpleaños / Aniversario"
+msgstr "Fecha de cumpleaños / aniversario"
 
 #: 
 msgid "Age / Years Married"
-msgstr "Años de Casados"
+msgstr "Años de casado"
 
 #: 
 msgid "Family Role"
@@ -167,15 +167,15 @@ msgstr "Depende del método de salida ya sea por persona o por familia"
 
 #: 
 msgid "Custom Field Selection"
-msgstr "Seleccionar Campo Personalizado"
+msgstr "Seleccionar campo personalizado"
 
 #: 
 msgid "Custom Person Fields"
-msgstr "Campos personalizados para Personas"
+msgstr "Campos personalizados para personas"
 
 #: 
 msgid "Custom Family Fields"
-msgstr "Campos personalizados para Familias"
+msgstr "Campos personalizados para familias"
 
 #: 
 msgid "Filters"
@@ -183,7 +183,7 @@ msgstr "Filtros"
 
 #: 
 msgid "Records to export"
-msgstr "Registros a Exportar"
+msgstr "Registros a exportar"
 
 #: 
 msgid "Based on filters below.."
@@ -191,7 +191,7 @@ msgstr "Basado en los filtros de abajo .."
 
 #: 
 msgid "People in Cart (filters ignored)"
-msgstr "Personas en Separador (filtros ignorados)"
+msgstr "Personas en carrito (filtros ignorados)"
 
 #: 
 msgid "Use Ctrl Key to select multiple"
@@ -199,19 +199,19 @@ msgstr "Use la tecla Ctrl para seleccionar varios"
 
 #: 
 msgid "Don't Filter"
-msgstr "No Filtrar"
+msgstr "No filtrar"
 
 #: 
 msgid "Male"
-msgstr "Hombre"
+msgstr "Masculino"
 
 #: 
 msgid "Female"
-msgstr "Mujer"
+msgstr "Femenino"
 
 #: 
 msgid "Group Membership"
-msgstr "Membresía de Grupo"
+msgstr "Membresía de grupo"
 
 #: 
 msgid "From:"
@@ -223,11 +223,11 @@ msgstr "Para:"
 
 #: 
 msgid "Birthday Date"
-msgstr "Fecha de Cumpleaños"
+msgstr "Fecha de cumpleaños"
 
 #: 
 msgid "Anniversary Date"
-msgstr "Fecha de Aniversario"
+msgstr "Fecha de aniversario"
 
 #: 
 msgid "Output Method:"
@@ -243,7 +243,7 @@ msgstr "Combinar familias en CSV"
 
 #: 
 msgid "Add Individuals to Cart"
-msgstr "Añadir personas al Separador"
+msgstr "Añadir personas al carrito"
 
 #: 
 msgid "Skip records with incomplete mail address"
@@ -283,27 +283,27 @@ msgstr "Sobre de donativo"
 
 #: 
 msgid "Home Phone"
-msgstr "Teléfono Hogar"
+msgstr "Teléfono del hogar"
 
 #: 
 msgid "Work Phone"
-msgstr "Teléfono de Trabajo"
+msgstr "Teléfono de trabajo"
 
 #: 
 msgid "Mobile Phone"
-msgstr "Telefono Móvil"
+msgstr "Telefono móvil"
 
 #: 
 msgid "Work / Other Email"
-msgstr "Trabajo / Otro Email"
+msgstr "Trabajo / Otro email"
 
 #: 
 msgid "Birth Date"
-msgstr "Fecha de Nacimiento"
+msgstr "Fecha de nacimiento"
 
 #: 
 msgid "Wedding Date"
-msgstr "Fecha de Matrimonio"
+msgstr "Fecha de matrimonio"
 
 #: 
 msgid "Ignore first CSV row (to exclude a header)"
@@ -323,7 +323,7 @@ msgstr "Matriarca"
 
 #: 
 msgid "Family Type: used with Make Family records... option above"
-msgstr "Tipo de Familia: se utiliza con los registros de Crear Familia ... opción anterior"
+msgstr "Tipo de familia: se utiliza con los registros para Crear familia ... opción anterior"
 
 #: 
 msgid "NOTE: Separators (dashes, etc.) or lack thereof do not matter"
@@ -347,15 +347,15 @@ msgstr "ERROR: el archivo CSV subido ya no existe!"
 
 #: 
 msgid "Data Cleared Successfully!"
-msgstr "Datos Limpiados exitosamente!"
+msgstr "Datos limpiados exitosamente!"
 
 #: 
 msgid "Upload CSV File"
-msgstr "Cargar Archivo CSV"
+msgstr "Cargar archivo CSV"
 
 #: 
 msgid "Clear Persons and Families"
-msgstr "Limpiar Personas y Familias"
+msgstr "Limpiar personas y familias"
 
 #: 
 msgid "Warning!  Do not select this option if you plan to add to an existing database.<br/>"
@@ -379,7 +379,7 @@ msgstr "Automatización de Sondeo"
 
 #: 
 msgid "Not confirmed."
-msgstr "No Confirmado"
+msgstr "No confirmado."
 
 #: 
 msgid "Canvassers"
@@ -387,7 +387,7 @@ msgstr "Escrutadores"
 
 #: 
 msgid "BraveCanvassers"
-msgstr "Escrutadores Secundarios"
+msgstr "Escrutadores secundarios"
 
 #: 
 msgid "Cleared all canvasser assignments."
@@ -408,7 +408,7 @@ msgstr "Botón ClearAllOkToCanvass no confirmado"
 
 #: 
 msgid "Set default fiscal year"
-msgstr "Definir el Año fiscal por Defecto."
+msgstr "Definir el año fiscal predeterminado"
 
 #: 
 msgid "Check to confirm"
